@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Wp Food Menu
- * Plugin URI: http://danielpataki.com
+ * Plugin URI: https://www.linkedin.com/in/rashmi-sonke-65838bb6/
  * Description: This plugin adds some Facebook Open Graph tags to our single posts.
  * Version: 1.0.0
- * Author: Daniel Pataki
- * Author URI: http://danielpataki.com
+ * Author: Rashmi Sonke
+ * Author URI: https://www.linkedin.com/in/rashmi-sonke-65838bb6/
  * License: GPL2
  */
 
